@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    background-color: blue;
+    padding: 45px;
+  }
+  h2 {
+    text-align: center;
+    font-style: italic;
+    background-color: tan;
+    padding: 15px;
+  }
+  .left {
+    padding-left: 100px;
+  }
+  #patent {
+    width: 35%;
+    height: 60%;
+    padding-left: 60px;
+  }
+  #info {
+    text-align: center;
+  }
+  #img-caption {
+    padding-left: 100px;
+  }
+  a{
+    display: block;
+    text-align: center;
+  }
+  ul {
+    color: white;
+    background-color: blue;
+    font-size: 20px;
+    padding: 45px;
+    margin-left: 25%;
+    margin-right: 25%
+  }
+  #image{
+    display: block;
+    height: auto;
+    max-width: 50%; 
+    margin: auto;
+  }
+  #img-caption {
+    text-align: center;
+  }
