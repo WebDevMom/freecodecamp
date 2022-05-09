@@ -1,0 +1,7 @@
+function timesFive(digit) {
+  return digit * 5;
+}
+
+const answer = timesFive(10);
+
+console.log(answer)
